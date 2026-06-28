@@ -122,9 +122,7 @@ export default function Footer() {
         >
           <p className="text-xs text-muted">
             Copyright {new Date().getFullYear()}. Developed by{' '}
-            <a href="https://www.updot.co/" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
-              UPDOT
-            </a>
+            <span className="text-accent">@Ronie</span>
           </p>
         </motion.div>
       </div>
