@@ -11,7 +11,7 @@ export default function GalleryPage() {
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60 z-10" />
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: `url(${galleryImages[0] || '/interiors/515A0453.jpg'})` }}
+          style={{ backgroundImage: `url(${galleryImages[0] || '/interiors/515A0596.jpg'})` }}
         />
         <div className="relative z-20 text-center px-6">
           <motion.h1

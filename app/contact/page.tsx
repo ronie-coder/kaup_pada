@@ -21,21 +21,11 @@ export default function ContactPage() {
   const contactDetails = [
     {
       label: 'Address',
-      value: 'Chimney Hills, Hesarghatta Road,\nBengaluru 560090',
+      value: 'Sy No 6/4\nSasuveghatta\nSoladevanahalli Post\nBangalore 560107',
       icon: (
         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-        </svg>
-      ),
-    },
-    {
-      label: 'Phone',
-      value: '+91 9611225130',
-      href: 'tel:+919611225130',
-      icon: (
-        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
         </svg>
       ),
     },
@@ -57,7 +47,7 @@ export default function ContactPage() {
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60 z-10" />
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: `url(${galleryImages[0] || '/interiors/515A0453.jpg'})` }}
+          style={{ backgroundImage: `url(${galleryImages[0] || '/interiors/515A0596.jpg'})` }}
         />
         <div className="relative z-20 text-center px-6">
           <motion.h1

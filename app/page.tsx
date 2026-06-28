@@ -112,7 +112,7 @@ export default function Home() {
         <div className="container-custom">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             <ImageReveal
-              src="https://cdn.prod.website-files.com/65f82e537b14755c37f50b36/660d33f0b852314714689585_prangana8.webp"
+              src="/interiors/515A0596.jpg"
               alt="Kaup Pada interior"
               className="w-full h-full object-cover rounded-2xl"
               containerClassName="rounded-2xl"
@@ -145,7 +145,7 @@ export default function Home() {
       <section className="relative py-32 lg:py-48 overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://cdn.prod.website-files.com/65f82e537b14755c37f50b36/660d33f0b852314714689585_prangana8.webp"
+            src="/interiors/515A0701.jpg"
             alt=""
             className="w-full h-full object-cover"
           />
