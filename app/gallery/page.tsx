@@ -28,7 +28,7 @@ export default function GalleryPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2, ease: [0.77, 0, 0.175, 1] }}
           >
-            A Visual Journey Through Kaup Pada
+            A Visual Journey Through Pada
           </motion.p>
         </div>
       </section>
@@ -42,7 +42,7 @@ export default function GalleryPage() {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            Explore our collection of photographs capturing the essence of Kaup Pada — from the elegance of our indoor halls to the serene beauty of our outdoor spaces. Each image tells a story of celebrations, togetherness, and memories waiting to be made.
+            Explore our collection of photographs capturing the essence of Pada — from the elegance of our indoor halls to the serene beauty of our outdoor spaces. Each image tells a story of celebrations, togetherness, and memories waiting to be made.
           </motion.p>
 
           <MasonryGrid images={galleryImages} />

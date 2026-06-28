@@ -22,7 +22,7 @@ export default function Footer() {
               transition={{ duration: 0.6 }}
             >
               <Link href="/" className="text-3xl font-serif gold-text tracking-wider">
-                Kaup Pada
+                Pada
               </Link>
               <p className="text-muted text-sm mt-4 leading-relaxed max-w-sm">
                 The event venue — where every moment becomes a cherished memory.

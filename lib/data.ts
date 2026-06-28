@@ -10,11 +10,11 @@ export interface Space {
 
 export const heroContent = {
   heroImage: "/interiors/515A0596.jpg",
-  heroTitle: "Kaup Pada",
+  heroTitle: "Pada",
   heroSubtitle: "The event venue — where every celebration finds its home",
   experienceTitle: "Where every celebration becomes a story to tell",
-  experienceDescription: "Nestled in the serene landscapes, Kaup Pada offers a perfect blend of charm and character. Whether it's a wedding, a corporate retreat, or an intimate gathering, our venue transforms every occasion into something unforgettable.",
-  ctaText: "Plan your celebration at Kaup Pada",
+  experienceDescription: "Nestled in the serene landscapes, Pada offers a perfect blend of charm and character. Whether it's a wedding, a corporate retreat, or an intimate gathering, our venue transforms every occasion into something unforgettable.",
+  ctaText: "Plan your celebration at Pada",
 }
 
 export const spaces: Space[] = [

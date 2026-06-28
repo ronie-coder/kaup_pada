@@ -113,7 +113,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             <ImageReveal
               src="/interiors/515A0596.jpg"
-              alt="Kaup Pada interior"
+              alt="Pada interior"
               className="w-full h-full object-cover rounded-2xl"
               containerClassName="rounded-2xl"
             />
@@ -158,7 +158,7 @@ export default function Home() {
               {heroContent.ctaText}
             </h2>
             <p className="text-white/60 text-sm sm:text-base leading-relaxed mb-10">
-              From intimate gatherings to grand celebrations, every moment at Kaup Pada is crafted to perfection.
+              From intimate gatherings to grand celebrations, every moment at Pada is crafted to perfection.
             </p>
             <Link
               href="/gallery"

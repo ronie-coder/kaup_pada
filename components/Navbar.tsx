@@ -47,7 +47,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between h-16 sm:h-20">
             <Link href="/" className="flex items-center gap-2 group z-10">
               <span className="text-lg sm:text-xl md:text-2xl font-serif tracking-wider gold-text">
-                Kaup Pada
+                Pada
               </span>
             </Link>
 

@@ -18,9 +18,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kaup Pada — The event venue where every celebration finds its home",
+  title: "Pada — The event venue where every celebration finds its home",
   description:
-    "Nestled in the serene landscapes, Kaup Pada offers a perfect blend of charm and character. Whether it is a wedding, a corporate retreat, or an intimate gathering, our venue transforms every occasion into something unforgettable.",
+    "Nestled in the serene landscapes, Pada offers a perfect blend of charm and character. Whether it is a wedding, a corporate retreat, or an intimate gathering, our venue transforms every occasion into something unforgettable.",
 };
 
 export default function RootLayout({
