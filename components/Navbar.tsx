@@ -98,7 +98,7 @@ export default function Navbar() {
               >
                 <motion.span
                   className="block w-5 sm:w-6 h-[1px] bg-foreground"
-                  animate={mobileOpen ? { rotate: 45, y: 2.5 } : { rotate: 0, y: 0 }}
+                  animate={mobileOpen ? { rotate: 45, y: 7 } : { rotate: 0, y: 0 }}
                 />
                 <motion.span
                   className="block w-5 sm:w-6 h-[1px] bg-foreground"
@@ -106,7 +106,7 @@ export default function Navbar() {
                 />
                 <motion.span
                   className="block w-5 sm:w-6 h-[1px] bg-foreground"
-                  animate={mobileOpen ? { rotate: -45, y: -2.5 } : { rotate: 0, y: 0 }}
+                  animate={mobileOpen ? { rotate: -45, y: -7 } : { rotate: 0, y: 0 }}
                 />
               </button>
             </div>
