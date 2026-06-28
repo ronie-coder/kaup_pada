@@ -67,11 +67,11 @@ export default function Footer() {
               <a href="mailto:hello@kaup-pada.com" className="text-sm text-foreground/60 hover:text-accent transition-colors duration-300">
                 hello@kaup-pada.com
               </a>
-              <a href="tel:+919611225130" className="text-sm text-foreground/60 hover:text-accent transition-colors duration-300">
-                +91 9611225130
+              <a href="tel:+919845025181" className="text-sm text-foreground/60 hover:text-accent transition-colors duration-300">
+                +91 98450 25181
               </a>
               <p className="text-sm text-foreground/60 leading-relaxed">
-                Chimney Hills, Hesarghatta Road,<br />Bengaluru 560090
+                Sy No 6/4, Sasuveghatta,<br />Soladevanahalli Post, Bangalore 560107
               </p>
             </div>
 
